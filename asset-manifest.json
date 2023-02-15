@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emreyupoglu/react-portfolio.git/static/css/main.073c9b0a.css",
+    "main.js": "/emreyupoglu/react-portfolio.git/static/js/main.eadf9ff2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/emreyupoglu/react-portfolio.git/static/js/787.a2cb61a6.chunk.js",
+    "static/media/logo.svg": "/emreyupoglu/react-portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emreyupoglu/react-portfolio.git/index.html",
+    "main.073c9b0a.css.map": "/emreyupoglu/react-portfolio.git/static/css/main.073c9b0a.css.map",
+    "main.eadf9ff2.js.map": "/emreyupoglu/react-portfolio.git/static/js/main.eadf9ff2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/emreyupoglu/react-portfolio.git/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eadf9ff2.js"
+  ]
+}
